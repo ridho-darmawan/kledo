@@ -1,8 +1,7 @@
 petunjuk pengujian rest-api
 
 1. clone project
-2. silakan composer install
-3. create nama db : kledo-app
+3. create nama db : kledo
 4. silakan migration database
 
 API
